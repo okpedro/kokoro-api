@@ -29,7 +29,6 @@ ENV/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -73,3 +72,7 @@ uv.lock
 
 # Mac MPS virtualenv for dual testing
 .venv-mps
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
